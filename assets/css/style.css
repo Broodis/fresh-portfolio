@@ -37,3 +37,10 @@ body {
     margin-top: 5%;
 
 }
+
+.card-image {
+    max-width: 50%;
+    display: block;
+    margin: auto;
+    padding: 1%;
+}
