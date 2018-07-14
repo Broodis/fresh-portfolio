@@ -1,0 +1,39 @@
+body {
+    background-color: #FF7F50;
+    color: #696969;
+}
+
+.navbar {
+    background-color: #F0F8FF;
+    color: #F5F5F5;
+}
+
+.navbar-brand {
+    color: #6495ED;
+    font-size: 24px;
+}
+
+.nav-link {
+    color: #FF7F50;
+}
+
+.project-card-odd {
+    position: relative; 
+    display: block;
+    width: auto;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.project-card-even {
+    position: relative; 
+    display: block;
+    width: auto;
+    height: auto;
+    margin-left: none;
+    margin-right: 5%;
+    margin-top: 5%;
+
+}
